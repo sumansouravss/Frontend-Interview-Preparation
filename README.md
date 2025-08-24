@@ -183,8 +183,8 @@ Cheat Sheet for Web Development Interviews. **Updated the list to include the la
    
    
 * <b>Runtime Complexity Table:</b></br>
-<a href="https://github.com/sumansourav/Web-Dev-Cheat-Sheet/blob/master/media/4.png" target="_blank">
-  <img src="https://github.com/sumansourav/Web-Dev-Cheat-Sheet/blob/master/media/4.png">
+<a href="https://github.com/sumansouravss/Web-Dev-Cheat-Sheet./blob/master/media/4.png" target="_blank">
+  <img src="https://github.com/sumansouravss/Web-Dev-Cheat-Sheet./blob/master/media/4.png">
 </a></br>
 
      
