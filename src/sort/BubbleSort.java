@@ -2,7 +2,7 @@ package sort;
 
 import java.util.Arrays;
 
-public class bubbleSort {
+public class BubbleSort {
 
 
     /*
