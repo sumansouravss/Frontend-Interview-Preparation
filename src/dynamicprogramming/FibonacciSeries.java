@@ -2,7 +2,7 @@ package dynamicprogramming;
 
 import java.util.Arrays;
 
-public class FibonacciSerie {
+public class FibonacciSeries {
 
 
     /*
