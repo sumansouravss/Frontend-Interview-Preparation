@@ -1,4 +1,9 @@
-# Web-Dev-Cheat-Sheet.
+# Frontend-Interview-Preparation
+
+<img src="./assets/screenshot.png" alt="App Demo" width="600"/>
+
+
+
 
 Cheat Sheet for Web Development Interviews. **Updated the list to include the latest Web components available in 2025.**
 
