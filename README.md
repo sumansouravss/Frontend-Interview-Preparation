@@ -1,6 +1,6 @@
 # Frontend-Interview-Preparation
 
-<img src="./assets/screenshot.png" alt="App Demo" width="600"/>
+<img src="./media/images.jpeg" alt="Frontend-Developer Prep" width="600"/>
 
 
 
